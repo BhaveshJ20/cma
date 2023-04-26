@@ -1,0 +1,161 @@
+body {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	margin: 0;
+	width: 100% !important;
+	-webkit-text-size-adjust: 100% !important;
+	-ms-text-size-adjust: 100% !important;
+	-webkit-font-smoothing: antialiased !important;
+    margin-top: 50px;
+}
+.tableContent img {
+	border: 0 !important;
+	display: block !important;
+	outline: none !important;
+}
+a {
+	color: #e54661;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:600;
+}
+p, h1 {
+	color: #707277;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h2 {
+	color: #707277;
+	font-size: 22px;
+	line-height:24px;
+	margin: 0;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h3 {
+	color: #707277;
+	font-size: 18px;
+	line-height:20px;
+	margin: 0;
+	font-family:Arial, Helvetica, sans-serif;
+}
+p {
+	color: #707277;
+	font-size: 16px;
+	margin: 0;
+	line-height: 20px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.bgBody {
+	background: #d1d2d4;
+}
+span.mail-heading{
+    font-weight:600;
+    font-size:18px;
+    line-height:20px;
+}
+table[class="MainContainer"] tr td,table[class="MainContainer"] tr th{
+    padding:5px;
+}
+ @media only screen and (max-width:480px) {
+table[class="MainContainer"], td[class="cell"] {
+	width: 100% !important;
+	height: auto !important;
+}
+td[class="specbundle"] {
+	width: 100% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 15px !important;
+	text-align: center !important;
+}
+td[class="specbundle2"] {
+	width: 90% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 10px !important;
+	padding-left: 5% !important;
+	padding-right: 5% !important;
+}
+td[class="specbundle3"] {
+	width: 85% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 10px !important;
+	padding-left: 10% !important;
+	padding-right: 5% !important;
+}
+td[class="spechide"] {
+	display: none !important;
+}
+img[class="banner"] {
+	width: 100% !important;
+	height: auto !important;
+}
+img[class="banner1"] {
+	width: 90% !important;
+	height: auto !important;
+}
+td[class="left_pad"] {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+}
+ @media only screen and (max-width:540px) {
+table[class="MainContainer"], td[class="cell"] {
+	width: 100% !important;
+	height: auto !important;
+}
+td[class="specbundle"] {
+	width: 100% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 15px !important;
+	text-align: center !important;
+}
+td[class="specbundle2"] {
+	width: 90% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 10px !important;
+	padding-left: 5% !important;
+	padding-right: 5% !important;
+}
+td[class="specbundle3"] {
+	width: 85% !important;
+	float: left !important;
+	font-size: 13px !important;
+	line-height: 17px !important;
+	display: block !important;
+	padding-bottom: 10px !important;
+	padding-left: 10% !important;
+	padding-right: 5% !important;
+}
+td[class="spechide"] {
+	display: none !important;
+}
+img[class="banner"] {
+	width: 100% !important;
+	height: auto !important;
+}
+img[class="banner1"] {
+	width: 90% !important;
+	height: auto !important;
+}
+td[class="left_pad"] {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+}
